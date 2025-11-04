@@ -1,0 +1,8 @@
+We can test the model-server with the available DR-SAMPLE Image. 
+Here's a sample result:
+{
+    "confidence": 0.9165812134742737,
+    "predicted_class": "diabetic_retinopathy"
+}
+
+The Model is indeed correct and identified DR With over 90% accuracy. 
