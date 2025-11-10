@@ -3,3 +3,5 @@ venv/
 node_modules/
 client/.env
 client/node_modules/
+*.keras
+eye_disease_classifier.keras
