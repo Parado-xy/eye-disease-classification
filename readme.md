@@ -1838,7 +1838,7 @@ Include:
 
 **Last Updated:** November 11, 2025  
 **Version:** 1.0.0  
-**Repository:** [https://github.com/tatendakasirori/eye-disease-classification]
+**Repository:** https://github.com/tatendakasirori/eye-disease-classification
 
 ---
 
