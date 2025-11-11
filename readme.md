@@ -1825,7 +1825,7 @@ Include:
 
 ## 👥 Authors
 
-- **Your Name** - Initial work and maintenance
+- Jalla Omajuwa, Felix Nuworsu, Tatenda Kasirori
 
 ## 🙏 Acknowledgments
 
