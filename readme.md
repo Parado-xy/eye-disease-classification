@@ -55,8 +55,8 @@ A full-stack web application that uses machine learning to classify retinal dise
 ## ⚡ Quick Start
 
 ```powershell
-# 1. Clone or navigate to project
-cd "C:\Users\tkasiror\Desktop\AI retinal scan\eye-disease-classification"
+# 1. Clone project
+git clone "https://github.com/Parado-xy/eye-disease-classification"
 
 # 2. Install backend dependencies
 pip install flask flask-cors tensorflow pillow numpy
@@ -149,10 +149,6 @@ All should show version numbers. If any command is not found, reinstall the soft
 ## 📦 Installation
 
 ### Step 1: Navigate to Project Directory
-
-```powershell
-cd "C:\Users\tkasiror\Desktop\AI retinal scan\eye-disease-classification"
-```
 
 ### Step 2: Install Backend Dependencies
 
