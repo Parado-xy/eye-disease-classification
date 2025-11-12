@@ -236,7 +236,7 @@ The application requires **two servers** running simultaneously: Flask backend a
 Open PowerShell in the **project root directory**:
 
 ```powershell
-# Make sure you're in: C:\Users\tkasiror\Desktop\AI retinal scan\eye-disease-classification
+# Make sure you're in: eye-disease-classification
 
 python model_server.py
 ```
@@ -256,7 +256,7 @@ Open a **new** PowerShell window:
 
 ```powershell
 # Navigate to client folder
-cd "C:\Users\tkasiror\Desktop\AI retinal scan\eye-disease-classification\client"
+cd "eye-disease-classification\client"
 
 # Start development server
 npm start
