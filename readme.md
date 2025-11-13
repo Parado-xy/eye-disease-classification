@@ -640,9 +640,8 @@ print(f"{class_names[predicted_class_index]}: {confidence:.2%}")
 
 **Model Performance Metrics:**
 - Overall Accuracy: ~95%
-- Training Dataset: [Your dataset info]
-- Validation Dataset: [Your dataset info]
-- Test Set Performance: [Your metrics]
+- Training Dataset: Kaggle APTOS-2019 dataset/test_images
+- Validation Dataset:  Kaggle APTOS-2019 dataset/val_images
 
 ---
 
@@ -768,34 +767,21 @@ Display Results → Visual Feedback
 
 ### Training Information
 
-**Dataset**: [Your dataset name and details]
+**Dataset**:  Kaggle APTOS-2019 dataset
 
-**Training Samples**: [Number of training images]
+**Training Samples**: 2930 images
 
-**Validation Samples**: [Number of validation images]
+**Validation Samples**: 366 images
 
-**Test Samples**: [Number of test images]
+**Test Samples**: 366 images
 
-**Training Duration**: [Hours/days]
+**Training Duration**: 1 hour, 15 minutes, 20.2s
 
-**Hardware Used**: [GPU/CPU specs]
+**Hardware Used**: GPU P100
 
 ### Model Performance
 
 **Overall Accuracy**: ~95%
-
-**Per-Class Metrics**:
-
-| Class | Accuracy | Sensitivity | Specificity | Precision |
-|-------|----------|-------------|-------------|-----------|
-| Cataract | XX% | XX% | XX% | XX% |
-| Diabetic Retinopathy | XX% | XX% | XX% | XX% |
-| Glaucoma | XX% | XX% | XX% | XX% |
-| Normal | XX% | XX% | XX% | XX% |
-
-**AUC-ROC Score**: [Score]
-
-**F1 Score**: [Score]
 
 ### Model Limitations
 
@@ -954,7 +940,7 @@ Error loading model: [Errno 2] No such file or directory:
 dir eye_disease_classifier.keras
 
 # Run Flask from correct directory
-cd "C:\Users\tkasiror\Desktop\AI retinal scan\eye-disease-classification"
+cd "eye-disease-classification"
 python model_server.py
 ```
 
