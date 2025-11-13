@@ -292,52 +292,14 @@ You should see the Eye Disease Classification dashboard with:
 
 ## 📸 Screenshots
 
-### Dashboard - Upload Interface
-
-*Add screenshot here showing:*
-- File upload area
-- Drag-and-drop zone
-- Browse files button
-- Analyze button
-
-```
-[Placeholder for: client-dashboard-upload.png]
-```
-
 ### Result Display - Normal Eye
 
-*Add screenshot here showing:*
-- Uploaded image preview
-- "Normal" classification
-- Confidence percentage (e.g., 95%)
-- Green confidence bar
+![Normal](https://github.com/user-attachments/assets/9aefd7d4-6d83-4bf3-87dc-0901f8c96f20)
 
-```
-[Placeholder for: result-normal.png]
-```
 
 ### Result Display - Diseased Eye
 
-*Add screenshot here showing:*
-- Uploaded image preview
-- Disease classification (e.g., "Cataract")
-- Confidence percentage
-- Color-coded confidence bar
-
-```
-[Placeholder for: result-disease.png]
-```
-
-### Error Handling
-
-*Add screenshot here showing:*
-- Invalid file format error
-- File size error
-- Server connection error
-
-```
-[Placeholder for: error-handling.png]
-```
+![Diabetic](https://github.com/user-attachments/assets/30729fd9-5759-4292-bceb-3a448c9a7520)
 
 ---
 
